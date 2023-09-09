@@ -42,7 +42,7 @@ This repository contains a sample implementation of the `ft_printf` function, al
 int ft_printf(const char *format, ...);
 ```
 
-## Example Usage
+### Example Usage
 
 ```c
 #include "ft_printf.h"
