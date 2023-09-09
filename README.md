@@ -62,7 +62,7 @@ Then, run the compiled executable:
 
 ## Format Specifiers
 
-`ft_printf` supports a wide range of format specifiers and formatting options. Refer to the (official printf format specifiers documentation)[https://en.cppreference.com/w/c/io/fprintf] for details on how to use them in your format strings.
+`ft_printf` supports a wide range of format specifiers and formatting options. Refer to the [official printf format specifiers documentation](https://en.cppreference.com/w/c/io/fprintf) for details on how to use them in your format strings.
 
 ## Acknowledgments
 
