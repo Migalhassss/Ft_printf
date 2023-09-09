@@ -6,6 +6,17 @@
 
 This repository contains a sample implementation of the `ft_printf` function, along with usage examples to help you understand how to integrate it into your C projects.
 
+## Table of Contents
+
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Build and Run](#build-and-run)
+- [Acknowledgments](#acknowledgments)
+- [Format Specifiers](#format-specifiers).
+- [Support](#support)
+
 ## Features
 
 - Supports a wide range of format specifiers, including `%s`, `%d`, `%x`, `%f`, and more.
