@@ -8,8 +8,6 @@ This repository contains a sample implementation of the `ft_printf` function, al
 
 ## Table of Contents
 
-## Table of Contents
-
 - [Features](#features)
 - [Usage](#usage)
 - [Build and Run](#build-and-run)
@@ -77,11 +75,11 @@ Then, run the compiled executable:
 
 ## Acknowledgments
 
-This implementation is inspired by the standard printf function and various open-source printf implementations available in the C community.
+This implementation is inspired by the standard printf function and various open-source `printf` implementations available in the C community.
 
 
 ## Support 
 
 If you have any questions, encounter issues, or need assistance with the libft project, please feel free to open an issue on GitHub. Im here to help and improve the library together.
 
-This implementation is inspired by the standard printf function and various open-source `printf` implementations available in the C community.
+
